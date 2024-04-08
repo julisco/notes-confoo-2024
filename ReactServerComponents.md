@@ -2,6 +2,10 @@
 
 by Sébastien Castiel
 
+## Official Slides
+
+[Slides](https://docs.google.com/presentation/d/1vclYIMpLawKiHYJipBPIK-cvSwvK84CTCbyZIQvtdBs/edit#slide=id.g25aa9cdf0f9_0_10)
+
 ## Key dates
 
 2013 - React
