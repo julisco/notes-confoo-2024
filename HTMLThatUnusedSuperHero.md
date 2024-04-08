@@ -2,6 +2,10 @@
 
 by Christophe Porteneuve
 
+## Official Slides
+
+[Slides](https://tdd.github.io/confoo-html)
+
 ## Forms
 
 - required - pattern
