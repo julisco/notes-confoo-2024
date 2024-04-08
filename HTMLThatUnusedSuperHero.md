@@ -1,5 +1,7 @@
 # HTML, that unused super-hero
 
+by Christophe Porteneuve
+
 ## Forms
 
 - required - pattern
